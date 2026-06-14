@@ -1,6 +1,8 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Best Cartoons from the 1980s to Today!
 ---
+We will discuss the best cartoons of the past four decades. We will separate them by decades (80s, 90s, 00s, 10s, 20s) and discuss what made them so special and the impact it had in my youth, and currently has as an adult.
+ 
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
