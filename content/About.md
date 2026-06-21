@@ -9,6 +9,6 @@ I have a few hobbies I am very passionate about:
 - Movies: Sci-fi movies
 - Music: Listening to everything
 - Comic Books: Read and collect
-- Technology: Learing about vintage or retro tech
+- Technology: Learning about vintage or retro tech
 - Books: Reading Sci-Fi and Mystery books
 - Homelab: Managing my own server and applications at home

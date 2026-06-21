@@ -1,5 +1,5 @@
 ---
-title: The Best Cartoons from the 1980s to Today!
+Cartoons of the Last  4 Decades: The Best Cartoons from the 1980s to Today!
 ---
 We will discuss the best cartoons of the past four decades. We will separate them by decades (80s, 90s, 00s, 10s, 20s) and discuss what made them so special and the impact it had in my youth, and currently has as an adult.
  
