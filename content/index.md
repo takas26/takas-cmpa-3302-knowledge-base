@@ -2,7 +2,13 @@
 Cartoons of the Last  4 Decades: The Best Cartoons from the 1980s to Today!
 ---
 We will discuss the best cartoons of the past four decades. We will separate them by decades (80s, 90s, 00s, 10s, 20s) and discuss what made them so special and the impact it had in my youth, and currently has as an adult.
- 
+## Main Categories
+- [[decades-category-01/index|Decades Category 01]]
+- [[networks-category-02/index|Networks Category 02]]
+- [[genres-category-03/index|Genres Category 03]]
+- [[target-audience-category-04/index|Target Audience Category 04]]
+- [[animation-style-category-05/index|Animation Style Category 05]]
+- [[accolades-and-ratings-category-06/index|Accolades & Ratings Category 06]]
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
