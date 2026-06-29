@@ -1,6 +1,9 @@
 ---
 Accolades & Ratings: "Category 06: Cartoons that have received nominations, awards and/or accolades during their series run."
 ---
+## Related Categories
+Click on the following link to view all the [[networks-category-02/index|Networks]] included in this knowledge base!
+
 ## The Category 06 category index page
 
 ### What is this page?

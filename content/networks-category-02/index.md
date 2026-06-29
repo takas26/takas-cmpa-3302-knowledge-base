@@ -1,6 +1,8 @@
 ---
 Network: "Category 02: List and separate each cartoon by the network and platform it was broadcasted in."
 ---
+## Related Categories
+Click the following link to see all of the Networks [[accolades-and-ratings-category-06/index|Accolades & Ratings]] for each category! 
 ## The Category 02 category index page
 
 ### What is this page?
