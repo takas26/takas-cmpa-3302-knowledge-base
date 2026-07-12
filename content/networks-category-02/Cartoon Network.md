@@ -1,4 +1,4 @@
-![[CartoonNetworkLogo.png|241]]
+![[CartoonNetworkLogo.png|250x250]]
 # Cartoon Network
 1992-Present
 

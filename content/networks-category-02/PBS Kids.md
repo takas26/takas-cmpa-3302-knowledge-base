@@ -1,4 +1,5 @@
-![[PBSKidsLogo.png|202]]
+![[PBSKidsLogo.png|250x250]]
+
 # PBS Kids
 1994-Present
 

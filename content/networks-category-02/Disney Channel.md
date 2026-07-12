@@ -1,4 +1,4 @@
-![[DisneyChannelLogo.png|239]]
+![[DisneyChannelLogo.png|250x250]]
 # Disney Channel
 1983-Present
 

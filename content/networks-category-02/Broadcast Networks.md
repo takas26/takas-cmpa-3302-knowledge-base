@@ -1,4 +1,4 @@
-![[FoxKidsLogo.png|172]]
+![[FoxKidsLogo.png|250x250]]
 # Fox Kids
 1990-2002   
 
@@ -18,7 +18,7 @@ Below is a full list of the cartoons that helped shaped the modern cartoon era:
 - Animaniacs (1993)
 - Spider-Man: The Animated Series (1994)
 
-![[WBKidsLogo.png|147]]
+![[WBKidsLogo.png|250x250]]
 # Kids' WB
 1995-2008
 

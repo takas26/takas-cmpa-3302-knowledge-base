@@ -1,4 +1,5 @@
-![[NickelodeonLogo.png|201]]
+![[NickelodeonLogo.png|250x250]]
+
 # Nickelodeon (Nicktoons)
 1990-Present
 
