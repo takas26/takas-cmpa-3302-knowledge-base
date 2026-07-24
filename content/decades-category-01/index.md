@@ -1,18 +1,22 @@
 ---
 Decades: "Category 01: Will list and separate each cartoon by the decade it was released."
 ---
-## The Category 01 category index page
+##  Below you fill find a link to the 5 decades (1980s-2020s) selected for this category:
+
+- [[1980s Cartoons]]
+- 1990s
+- 2000s
+- 2010s
+- 2020s
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+This page shows the decades we will be covering, starting from the 1980s, all the way to the 2020s. 5 decades worth of cartoons at your disposal. We will only be discussing cartoon shows that I have personally watched and/or consider to be some of the best for that specific decade. As much as I want to list all the cartoons that were aired during this time period, it would take a very long time to put together.
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+### What to look for?
 
-### Naming a category page's index
+Look out for these icons for additional information: 
+![[checkmark.png|24]] Watched
+![[star.png]] Highly Recommend
+![[best.png]] Highly Rated
 
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
