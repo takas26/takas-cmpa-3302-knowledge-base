@@ -1,4 +1,4 @@
-# List of Cartoons from the 1980s
+# List of Cartoons from the 1980s (1980-1989)
 
 ## Broadcast Networks
 As mentioned in Networks - [[Broadcast Networks]], these cartoons where aired through local affiliate channels. 
@@ -6,6 +6,7 @@ As mentioned in Networks - [[Broadcast Networks]], these cartoons where aired th
  ![[checkmark.png]] Watched | ![[star.png]] Highly Recommend | ![[best.png]] Highly Rated
 
 - Alvin and the Chipmunks (1983) ![[checkmark.png]]
+- A Pup Named Scooby Doo (1988) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Beetlejuice (1989) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - BraveStarr (1987) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Care Bears (1985) ![[checkmark.png]]
@@ -18,9 +19,10 @@ As mentioned in Networks - [[Broadcast Networks]], these cartoons where aired th
 - Mask (1985) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Muppet Babies (1984) ![[checkmark.png]]
 - Teenage Mutant Ninja Turtles (1987) ![[checkmark.png]] ![[star.png]] ![[best.png]]
-- The Legend of Zelda (1989) 
+- The Flintstone Kids (1986) ![[checkmark.png]] ![[star.png]]
+- The Legend of Zelda (1989) ![[checkmark.png]] 
 - The Real Ghostbusters (1986) ![[checkmark.png]] ![[star.png]] ![[best.png]]
-- The Super Mario Bros. Super Show! (1989)
+- The Super Mario Bros. Super Show! (1989) ![[checkmark.png]] ![[star.png]]
 - Thundercats (1985) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Transformers (1984) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 
@@ -32,10 +34,9 @@ As mentioned in Networks - [[Disney Channel]], even though original programming 
  ![[checkmark.png]] Watched | ![[star.png]] Highly Recommend | ![[best.png]] Highly Rated
  
 - Adventures of Gummi Bears (1985) ![[checkmark.png]] ![[star.png]] ![[best.png]]
-- The New Adventures of Winnie the Poo (1985) ![[checkmark.png]]
-- Duck Tales (1987) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Chip 'n Dale: Rescue Rangers (1989) ![[checkmark.png]] ![[star.png]] ![[best.png]]
-
+- Duck Tales (1987) ![[checkmark.png]] ![[star.png]] ![[best.png]]
+- The New Adventures of Winnie the Poo (1985) ![[checkmark.png]]
 ## Nickelodeon
 As mentioned in Networks - [[Nickelodeon]], this channel did not broadcast any original cartoons until 1991.
 
@@ -46,6 +47,8 @@ As mentioned in Networks - [[PBS Kids]], this channel did not broadcast any orig
 There are still many cartoons that were left out of the list, either because I did not watch them, where not as popular, or I do not know about them. 
 
 #### Links to other decades: 
+- [[1990s Cartoons]]
+- [[2000s Cartoons]]
 - 
 #### Links to other categories:
 - [[accolades-and-ratings-category-06/index|Accolades and Ratings]]

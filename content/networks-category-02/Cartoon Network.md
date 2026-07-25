@@ -15,12 +15,7 @@ Another reason why Cartoon Network was so groundbreaking and successful was due 
 ### Toonami
 1997-2008 & 2012-Present
 The toonami block was famous for the American introduction of anime shows like Dragon Ball Z, Sailor Moon and Gundam Wing. It later introduced American audiences to anime like Naruto, and One Piece. Although the block was cancelled in 2008, it was revived as a new block within Adult Swim where it currently resides airing modern anime like My Hero Academia, and Attack on Titan.
-### Popular Series
-Below is a full list of the cartoons that helped shaped the modern cartoon era:
-- Dexter's Laboratory (1996)
-- The Powerpuff Girls (1998)
-- Courage the Cowardly Dog (1999)
-- Ed, Edd n Eddy (1999)
+
 - Codename: Kids Next Door (2002)
 -  Foster's Home for Imaginary Friends (2004)
 - Chowder (2007)

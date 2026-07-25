@@ -4,7 +4,7 @@ Decades: "Category 01: Will list and separate each cartoon by the decade it was 
 ##  Below you fill find a link to the 5 decades (1980s-2020s) selected for this category:
 
 - [[1980s Cartoons]]
-- 1990s
+- [[1990s Cartoons]]
 - 2000s
 - 2010s
 - 2020s
