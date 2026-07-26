@@ -16,5 +16,6 @@ We will discuss the best cartoons of the past five decades. We will separate the
 Each main category has several subcategories within them. Each subcategory will provide additional information by decade, network, genres, etc. Please use the links to navigate between the subcategories and main categories.
 
 
-# [[about|About Me]]
+### [[about|About Me Page]]
+
 
