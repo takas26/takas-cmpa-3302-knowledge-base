@@ -1,3 +1,8 @@
+---
+Title: Broadcast Networks
+date: 2026-07-20
+---
+
 ![[FoxKidsLogo.png|250x250]]
 # Fox Kids
 1990-2002   
@@ -23,9 +28,9 @@ What made the network extremely successful and be dominant in the children's car
 The end of Kid's WB started when Time Warner and CBS announced the merger of the WB and UPN to form The CW. Kids' WB was moved in September of 2006 to The CW, losing the Pokémon franchise to cable networks, thus only airing it remaining lineup for an additional two years before it was shut down in 2008. 
 
 ### For additional Network information, please visit the links below:
-[[Cartoon Network]]
+[[category-02-networks/Cartoon Network|Cartoon Network]]
 [[Nickelodeon]]
 [[Disney Channel]]
 [[PBS Kids]]
-[[index|Home Page]]
+[[category-02-networks/index|Networks Home Page]]
 

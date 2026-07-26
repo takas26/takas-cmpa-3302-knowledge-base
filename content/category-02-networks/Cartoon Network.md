@@ -1,3 +1,7 @@
+---
+Title: Cartoon Network
+date: 2026-07-20
+---
 ![[CartoonNetworkLogo.png|250x250]]
 # Cartoon Network
 1992-Present
@@ -16,19 +20,9 @@ Another reason why Cartoon Network was so groundbreaking and successful was due 
 1997-2008 & 2012-Present
 The toonami block was famous for the American introduction of anime shows like Dragon Ball Z, Sailor Moon and Gundam Wing. It later introduced American audiences to anime like Naruto, and One Piece. Although the block was cancelled in 2008, it was revived as a new block within Adult Swim where it currently resides airing modern anime like My Hero Academia, and Attack on Titan.
 
-- Codename: Kids Next Door (2002)
--  Foster's Home for Imaginary Friends (2004)
-- Chowder (2007)
-- Adventure Time (2010)
-- Regular Show (2010)
-- The Amazing World of Gumball (2011)
-- Steven Universe (2013)
-- Craig of the Creek (2018)
-
 ### For additional Network information, please visit the links below:
 [[Broadcast Networks]]
 [[Nickelodeon]]
 [[Disney Channel]]
 [[PBS Kids]]
-[[index|Home Page]]
-
+[[category-02-networks/index|Networks Home Page]]

@@ -1,50 +1,20 @@
 ---
-Cartoons of the Last  4 Decades: The Best Cartoons from the 1980s to Today!
+Title: The Best Cartoons from the 1980s to Today!
+date: 2026-07-20
 ---
-We will discuss the best cartoons of the past four decades. We will separate them by decades (80s, 90s, 00s, 10s, 20s) and discuss what made them so special and the impact it had in my youth, and currently has as an adult.
+# Cartoon Knowledge Base
+We will discuss the best cartoons of the past five decades. We will separate them by decades (80s, 90s, 00s, 10s, 20s) and discuss what made them so special and the impact it had in my youth, and currently still has as an adult.
 ## Main Categories
-- [[decades-category-01/index|Decades Category 01]]
-- [[networks-category-02/index|Networks Category 02]]
-- [[genres-category-03/index|Genres Category 03]]
-- [[target-audience-category-04/index|Target Audience Category 04]]
-- [[animation-style-category-05/index|Animation Style Category 05]]
-- [[accolades-and-ratings-category-06/index|Accolades & Ratings Category 06]]
-## The index page
+- [[category-01-decades/index|Decades Category 01]]
+- [[category-02-networks/index|Networks Category 02]]
+- [[category-03-genres/index|Genres Category 03]]
+- [[category-04-target-audience/index|Target Audience Category 04]]
+- [[category-05-animation-style/index|Animation Style Category 05]]
+- [[category-06-accolades/index|Accolades Category 06]]
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+## Subcategories
+Each main category has several subcategories within them. Each subcategory will provide additional information by decade, network, genres, etc. Please use the links to navigate between the subcategories and main categories.
 
-## Editing pages
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+# [[about|About Me]]
 

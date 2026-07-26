@@ -1,3 +1,7 @@
+---
+Title: 1990s Cartoons
+date: 2026-07-20
+---
 # List of Cartoons from the 1990s (1990-1999)
 
 ## Broadcast Networks
@@ -8,11 +12,13 @@ As mentioned in Networks - [[Broadcast Networks]], these cartoons where aired th
 - Animaniacs (1993) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Batman Beyond (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Batman: The Animated Series (1992) ![[checkmark.png]] ![[star.png]] ![[best.png]]
-- Best Machines: Transformers (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
+- Beast Machines: Transformers (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Bobby's World (1990) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Captain Planet and the Planeteers (1997) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Digimon Adventure (1999) ![[best.png]]
+- Family Guy (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Freakazoid! (1995) ![[checkmark.png]] ![[star.png]] ![[best.png]]
+- King of the Hill (1997) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Life with Louie (1994) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Pokémon (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Spider-Man: The Animated Series (1994) ![[checkmark.png]] ![[star.png]] ![[best.png]]
@@ -23,7 +29,7 @@ As mentioned in Networks - [[Broadcast Networks]], these cartoons where aired th
 - X-Men: The Animates Series (1992) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 
 ## Cartoon Network
-As mentioned in Networks - [[Cartoon Network]], the channel was created to compete with Broadcast Networks, Nickelodeon and the Disney Channel. Because of its continuous success with original programming, Cartoon Network is still alive today after 34 years. These cartoons started it all.
+As mentioned in Networks - [[category-02-networks/Cartoon Network|Cartoon Network]], the channel was created to compete with Broadcast Networks, Nickelodeon and the Disney Channel. Because of its continuous success with original programming, Cartoon Network is still alive today after 34 years. These cartoons started it all.
 
 ![[checkmark.png]] Watched | ![[star.png]] Highly Recommend | ![[best.png]] Highly Rated
 
@@ -64,6 +70,12 @@ As mentioned in Networks - [[Nickelodeon]], although it did not produce many car
 - CatDog (1998) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 - Spongebob Squarepants (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 
+## PBS Kids
+As mentioned in Networks - [[PBS Kids]], although it did not release many animated cartoons  due to being publicly funded, it created some of the most memorable cartoon characters renowned by the entire world. We all grew up watching these cartoons because it taught us valuable life lessons, taught us curiosity is a good thing, and our imaginations are as big as we want them to.
+
+- Arthur (1996) ![[checkmark.png]] ![[star.png]] ![[best.png]]
+- Dragon Tales (1999) ![[checkmark.png]] ![[star.png]] ![[best.png]]
+- The Magic School Bus (1994) ![[checkmark.png]] ![[star.png]] ![[best.png]]
 
 ### Missing Cartoons
 There are still many cartoons that were left out of the list, either because I did not watch them, where not as popular, or I do not know about them. 
@@ -71,10 +83,13 @@ There are still many cartoons that were left out of the list, either because I d
 #### Links to other decades: 
 - [[1980s Cartoons]]
 - [[2000s Cartoons]]
-- 
+- [[2010s Cartoons]]
+- [[2020s Cartoons]]
 #### Links to other categories:
-- [[accolades-and-ratings-category-06/index|Accolades and Ratings]]
-- [[animation-style-category-05/index|Animation Style]]
-- [[genres-category-03/index|Genres]]
-- [[networks-category-02/index|Networks]]
-- [[target-audience-category-04/index|Target Audience]]
+- [[category-06-accolades/index|Accolades]]
+- [[category-05-animation-style/index|Animation Style]]
+- [[category-03-genres/index|Genres]]
+- [[category-02-networks/index|Networks]]
+- [[category-04-target-audience/index|Target Audience]]
+- [[references-page|References Page]]
+- [[category-01-decades/index|Decades Home Page]]
